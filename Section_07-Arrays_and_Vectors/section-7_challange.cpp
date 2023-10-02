@@ -59,7 +59,6 @@ int main(void)
 	// displaying elements of vector_1 again
 	cout << "Elements at index 0: " << vector_1.at(0) << endl;
 	cout << "Elements at index 1: " << vector_1.at(1) << endl;
-	cout << "Size of vector_1: " << vector_1.size() << endl;
 
 	return (0);
 }
